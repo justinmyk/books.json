@@ -4,7 +4,7 @@
 		{
 		"title":"Harry Potter and the Prisoner of Azkaban",
 		"author":"J.K Rowling",
-		"coverImage":"img/J1.jpg",
+		"coverImage":"img/img1.jpg",
 		"summary":"Harry Potter's (Daniel Radcliffe) third year at Hogwarts starts off badly when he learns deranged killer Sirius Black (Gary Oldman) has escaped from Azkaban prison and is bent on murdering the teenage wizard. While Hermione's (Emma Watson) cat torments Ron's (Rupert Grint) sickly rat, causing a rift among the trio, a swarm of nasty Dementors is sent to protect the school from Black. A mysterious new teacher helps Harry learn to defend himself, but what is his secret tie to Sirius Black?",
 		"reviews":
 			[
@@ -16,7 +16,7 @@
 		{
 		"title":"Harry Potter and the Goblet of Fire",
 		"author":"J.K Rowling",
-		"coverImage":"img/J2.jpg",
+		"coverImage":"img/img2.jpg",
 		"summary":"The fourth movie in the Harry Potter franchise sees Harry (Daniel Radcliffe) returning for his fourth year at Hogwarts School of Witchcraft and Wizardry, along with his friends, Ron (Rupert Grint) and Hermione (Emma Watson). There is an upcoming tournament between the three major schools of magic, with one participant selected from each school by the Goblet of Fire. When Harry's name is drawn, even though he is not eligible and is a fourth player, he must compete in the dangerous contest.",
 		"reviews":
 			[
@@ -28,7 +28,7 @@
 		{
 		"title":"Harry Potter and the Cursed Child",
 		"author":"J.K Rowling",
-		"coverImage":"img/J3.jpg",
+		"coverImage":"img/img3.jpg",
 		"summary":"This novel takes place more than 20 years after Harry Potter's adventures at Hogwarts. He and his friends have grown up and entered adult lives, careers, and families in the magical world. Harry and Ginny Weasley are married and have three children, Albus, James, and Lily. Harry has a job in the the Ministry of Magic's office. Hermione Granger and Ron Weasley are married and have two children, one son and a daughter named Rose.",
 		"reviews":
 			[
